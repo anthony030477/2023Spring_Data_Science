@@ -1,0 +1,2 @@
+train.py可以訓練我的模型
+get_csv.py可以得到預測的label
