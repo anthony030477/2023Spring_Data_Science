@@ -10,3 +10,5 @@
 ## [HW5 Headline Generation](https://github.com/anthony030477/2023spring_Data_Science/tree/main/hw5)
 
 ## [HW6 Anomaly Detection](https://github.com/anthony030477/2023spring_Data_Science/tree/main/hw6)
+
+:)
